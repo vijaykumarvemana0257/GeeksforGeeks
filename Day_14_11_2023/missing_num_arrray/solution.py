@@ -1,5 +1,8 @@
 #User function Template for python3
 
+import math
+
+
 class Solution:
     ##Complete this function
     # Function to check if given number n is a power of two.
